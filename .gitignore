@@ -101,3 +101,7 @@ ENV/
 .mypy_cache/
 
 .DS_Store
+ijb_data/
+model-r100-ii.zip
+model-r100-ii
+.vscode
